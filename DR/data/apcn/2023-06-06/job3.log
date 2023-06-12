@@ -1,0 +1,5 @@
+2023-06-06 03:42:06|WSSkla|WSSkla|WSSkla|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_1|VNF devices processed|42
+2023-06-06 03:42:10|WSSkla|WSSkla|WSSkla|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_2|uCPE devices processed|42
+2023-06-06 03:42:11|WSSkla|WSSkla|WSSkla|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_3|VNF interfaces processed|42
+2023-06-06 03:42:13|WSSkla|WSSkla|WSSkla|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_4|vManage inventory processed|42
+2023-06-06 03:42:14|WSSkla|WSSkla|WSSkla|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_5|APH inventory cleanup done|42

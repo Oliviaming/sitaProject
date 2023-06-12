@@ -1,0 +1,5 @@
+2023-06-09 03:45:32|YBCshK|YBCshK|YBCshK|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_1|VNF devices processed|42
+2023-06-09 03:45:36|YBCshK|YBCshK|YBCshK|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_2|uCPE devices processed|42
+2023-06-09 03:45:37|YBCshK|YBCshK|YBCshK|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_3|VNF interfaces processed|42
+2023-06-09 03:45:39|YBCshK|YBCshK|YBCshK|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_4|vManage inventory processed|42
+2023-06-09 03:45:40|YBCshK|YBCshK|YBCshK|ICAP_INVENTORY_33|MetaJob_SDWAN_Inventory|Default|4|tWarn|tWarn_5|APH inventory cleanup done|42

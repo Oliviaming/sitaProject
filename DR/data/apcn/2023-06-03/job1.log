@@ -1,0 +1,283 @@
+tContextLoad_1 set key "Url1" with value "http://gini-eu.sita.aero/ftp-area/xgri/.asyncjobs/c3a604f2b1f44934d8a327aa83bbf963/"
+tContextLoad_1 set key "Url2" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/e09aa6b693209c2967d257b45014c6e7/"
+tContextLoad_1 set key "Url3" with value "http://gini-eu.sita.aero/ftp-area/xgri/.asyncjobs/56da48e0f967c803a095619b30423363/"
+tContextLoad_1 set key "Url4" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/97345f0683fec16a4da7913c1bd55f7d/"
+tContextLoad_1 set key "Url5" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/6ebb80040298e5e548a5ba45bdc2a4e2/"
+tContextLoad_1 set key "Url6" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/035e4996133363a78612063fa3e7e495/"
+tContextLoad_1 set key "Url7" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/906d228c7ec8d142ac5d802182e27c66/"
+tContextLoad_1 set key "Url8" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/c47d745bd2fee15ba89e6c754538a5ee/"
+tContextLoad_1 set key "Url9" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/b5990334c75014241aa79af7901fec16/"
+tContextLoad_1 set key "Url10" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/fea0f7f632c48a218b274ddb36a79fcf/"
+tContextLoad_1 set key "Url11" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/cca86598c6c99bdb015f66297206d9b6/"
+tContextLoad_1 set key "Url12" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/803ee147dcf4f6d188afae0fe9d04fda/"
+tContextLoad_1 set key "Url13" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/98bbb76264292fb68111adb81e12dc63/"
+tContextLoad_1 set key "Url14" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/0d2f9e8bf2173ff649d33ef0c50318c4/"
+tContextLoad_1 set key "Url15" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/4912997318ea4f8678db1dd0dc4b0757/"
+tContextLoad_1 set key "Url16" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/94ac45edada213b2be6d62c347cba8b2/"
+tContextLoad_1 set key "Url17" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/d39c1f3d8352e51e998b8390c6780957/"
+tContextLoad_1 set key "Url18" with value "http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/384035a90556daccccac56fc230f8572/"
+tContextLoad_1 set key "Url19_sdn_ucpe" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/9b98051c61a9dbd76c433aa962e62530/"
+tContextLoad_1 set key "Url20_sdn_vnf" with value "http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/e64e3277c8824e01cd4d4d04ff02f810/"
+tContextLoad_1 set key "Url21_sdn_int" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/891a26b4211d53927a3df693834ef43d/"
+tContextLoad_1 set key "Url22_sdn" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/2eed9bac275b02fcb2ad13a3e29db02c/"
+tContextLoad_1 set key "Url23_sdn" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/528ee94122351274ece6287c815824bd/"
+tContextLoad_1 set key "Url2_1" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/65340746d90d06caaf34ebaf27e26e0f/"
+tContextLoad_1 set key "Url3_1" with value "http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/c9900d5b12fdedfaae8f87931a005b93/"
+tContextLoad_1 set key "File1" with value "Gini-Xgri-User.txt.gz"
+tContextLoad_1 set key "File2" with value "Gini-Xipi-L2-L3-links.txt.gz"
+tContextLoad_1 set key "File3" with value "Gini-Xgri-Node.txt.gz"
+tContextLoad_1 set key "File4" with value "Gini-Xtra-Remote.txt.gz"
+tContextLoad_1 set key "File5" with value "Gini-Xpro-Physical-Interfaces-provisioning-info-from-CIS.txt.gz"
+tContextLoad_1 set key "File6" with value "Gini-Xipi-Device.txt.gz"
+tContextLoad_1 set key "File7" with value "Gini-Xtra-Service-Availability.txt.gz"
+tContextLoad_1 set key "File8" with value "Gini-Xpro-CE-PE-meshing-COS.txt.gz"
+tContextLoad_1 set key "File9" with value "Gini-Xpro-DSL-params.txt.gz"
+tContextLoad_1 set key "File10" with value "Gini-Xtra-CE-Ethernet-Carrier-circuit.txt.gz"
+tContextLoad_1 set key "File11" with value "Gini-Xtra-IP-Meshing-PE-IAR-list.txt.gz"
+tContextLoad_1 set key "File12" with value "Gini-Xpro-CCR-access-circuit.txt.gz"
+tContextLoad_1 set key "File13" with value "Gini-Xipi-Meshing.txt.gz"
+tContextLoad_1 set key "File14" with value "Gini-Xipi-Interface.txt.gz"
+tContextLoad_1 set key "File15" with value "Gini-Xpro-IP-Devices-ordering-provisioning-info.txt.gz"
+tContextLoad_1 set key "File16" with value "Gini-Xipi-Class-Of-Service-Synthesis.txt.gz"
+tContextLoad_1 set key "File17" with value "Gini-Xpro-USID-details-from-CIS.txt.gz"
+tContextLoad_1 set key "File18" with value "Gini-Xpro-CCR-Circuit-Lookup.txt.gz"
+tContextLoad_1 set key "File19" with value "Gini-Xtra-UCPE-chassis.txt.gz"
+tContextLoad_1 set key "File20" with value "Gini-Xtra-UCPE-element.txt.gz"
+tContextLoad_1 set key "File21" with value "Gini-Xipi-Interface.txt.gz"
+tContextLoad_1 set key "File22" with value "Gini-Xipi-Cascaded-device.txt.gz"
+tContextLoad_1 set key "File23" with value "Gini-Xipi-Virtual-Network-Functions.txt.gz"
+tContextLoad_1 set key "File2_1" with value "Gini-Xipi-Interface.txt.gz"
+tContextLoad_1 set key "File3_1" with value "Gini-Xipi-Interface.txt.gz"
+tContextLoad_1 set key "UploadDir" with value "/tmp/GINI/Upload/"
+tContextLoad_1 set key "UploadDir2" with value "/tmp/GINI/Upload/2/"
+tContextLoad_1 set key "UploadDir3" with value "/tmp/GINI/Upload/3/"
+tContextLoad_1 set key "UploadDirSdn" with value "/tmp/GINI/Upload/sdn/"
+tContextLoad_1 set key "DestDir" with value "/tmp/GINI/File/"
+tContextLoad_1 set key "DestDir2" with value "/tmp/GINI/File/2/"
+tContextLoad_1 set key "DestDir3" with value "/tmp/GINI/File/3/"
+tContextLoad_1 set key "DestDirSdn" with value "/tmp/GINI/File/sdn/"
+tContextLoad_1 set key "ProxyHost" with value "gini-eu.sita.aero"
+tContextLoad_1 set key "ProxyPort" with value "8080"
+2023-06-03 03:39:12|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_1|http://gini-eu.sita.aero/ftp-area/xgri/.asyncjobs/c3a604f2b1f44934d8a327aa83bbf963/Gini-Xgri-User.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:13 GMT
+Last-Modified: Wed, 31 May 2023 07:30:58 GMT
+ETag: "596-5fcf84d14736c"
+Accept-Ranges: bytes
+Content-Length: 1430
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq14dxk@eW5Y4Bm1o1xtgAAAIU
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:13|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_2|http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/e09aa6b693209c2967d257b45014c6e7/Gini-Xipi-L2-L3-links.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:13 GMT
+Last-Modified: Wed, 31 May 2023 07:30:14 GMT
+ETag: "1fb5e-5fcf84a6cfbbe"
+Accept-Ranges: bytes
+Content-Length: 129886
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq14dxk@eW5Y4Bm1o1xuAAAAII
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:13|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_3|http://gini-eu.sita.aero/ftp-area/xgri/.asyncjobs/56da48e0f967c803a095619b30423363/Gini-Xgri-Node.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:14 GMT
+Last-Modified: Wed, 31 May 2023 07:30:57 GMT
+ETag: "2d1-5fcf84d01e559"
+Accept-Ranges: bytes
+Content-Length: 721
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq14txk@eW5Y4Bm1o1xvAAAAI0
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:14|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_4|http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/97345f0683fec16a4da7913c1bd55f7d/Gini-Xtra-Remote.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:14 GMT
+Last-Modified: Wed, 31 May 2023 07:30:41 GMT
+ETag: "1458-5fcf84c06bb7c"
+Accept-Ranges: bytes
+Content-Length: 5208
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq14txk@eW5Y4Bm1o1xvQAAAIs
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:14|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_5|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/6ebb80040298e5e548a5ba45bdc2a4e2/Gini-Xpro-Physical-Interfaces-provisioning-info-from-CIS.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:14 GMT
+Last-Modified: Wed, 31 May 2023 07:32:06 GMT
+ETag: "df30a-5fcf8512335ae"
+Accept-Ranges: bytes
+Content-Length: 914186
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq14txk@eW5Y4Bm1o1xvgAAAIc
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:15|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_6|http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/035e4996133363a78612063fa3e7e495/Gini-Xipi-Device.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:15 GMT
+Last-Modified: Wed, 31 May 2023 07:32:38 GMT
+ETag: "143e93-5fcf8530c2f6c"
+Accept-Ranges: bytes
+Content-Length: 1326739
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq149xk@eW5Y4Bm1o1xwwAAAIM
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:16|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_7|http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/906d228c7ec8d142ac5d802182e27c66/Gini-Xtra-Service-Availability.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:16 GMT
+Last-Modified: Wed, 31 May 2023 07:30:39 GMT
+ETag: "1b4e-5fcf84bed8a2b"
+Accept-Ranges: bytes
+Content-Length: 6990
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq15Nxk@eW5Y4Bm1o1xxgAAAII
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:16|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_8|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/c47d745bd2fee15ba89e6c754538a5ee/Gini-Xpro-CE-PE-meshing-COS.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:16 GMT
+Last-Modified: Wed, 31 May 2023 07:31:31 GMT
+ETag: "15ba3d-5fcf84effa39a"
+Accept-Ranges: bytes
+Content-Length: 1423933
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq15Nxk@eW5Y4Bm1o1xyAAAAIY
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:18|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_9|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/b5990334c75014241aa79af7901fec16/Gini-Xpro-DSL-params.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:18 GMT
+Last-Modified: Wed, 31 May 2023 07:31:10 GMT
+ETag: "119bf2-5fcf84dc5b709"
+Accept-Ranges: bytes
+Content-Length: 1154034
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq15q2@@4g40K7tG4Q5RgAAAAU
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:20|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_10|http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/fea0f7f632c48a218b274ddb36a79fcf/Gini-Xtra-CE-Ethernet-Carrier-circuit.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:20 GMT
+Last-Modified: Wed, 31 May 2023 07:31:47 GMT
+ETag: "3c467-5fcf85000960c"
+Accept-Ranges: bytes
+Content-Length: 246887
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq16K2@@4g40K7tG4Q5TQAAAA4
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:20|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_11|http://gini-eu.sita.aero/ftp-area/xtra/.asyncjobs/cca86598c6c99bdb015f66297206d9b6/Gini-Xtra-IP-Meshing-PE-IAR-list.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:20 GMT
+Last-Modified: Wed, 31 May 2023 07:30:55 GMT
+ETag: "6810a-5fcf84ce2ef71"
+Accept-Ranges: bytes
+Content-Length: 426250
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq16K2@@4g40K7tG4Q5UAAAAAc
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:21|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_12|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/803ee147dcf4f6d188afae0fe9d04fda/Gini-Xpro-CCR-access-circuit.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:21 GMT
+Last-Modified: Wed, 31 May 2023 07:32:21 GMT
+ETag: "1c6cee-5fcf851fc6c05"
+Accept-Ranges: bytes
+Content-Length: 1862894
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq16a2@@4g40K7tG4Q5UgAAAAY
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:22|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_13|http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/98bbb76264292fb68111adb81e12dc63/Gini-Xipi-Meshing.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:22 GMT
+Last-Modified: Wed, 31 May 2023 07:31:28 GMT
+ETag: "143db5-5fcf84ed399fa"
+Accept-Ranges: bytes
+Content-Length: 1326517
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq16q2@@4g40K7tG4Q5WgAAAAI
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:24|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_14|http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/0d2f9e8bf2173ff649d33ef0c50318c4/Gini-Xipi-Interface.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:24 GMT
+Last-Modified: Wed, 31 May 2023 07:31:03 GMT
+ETag: "e148d-5fcf84d59ba13"
+Accept-Ranges: bytes
+Content-Length: 922765
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq17K2@@4g40K7tG4Q5XwAAAAg
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:25|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_15|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/4912997318ea4f8678db1dd0dc4b0757/Gini-Xpro-IP-Devices-ordering-provisioning-info.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:25 GMT
+Last-Modified: Wed, 31 May 2023 07:31:41 GMT
+ETag: "cd83f-5fcf84fa65431"
+Accept-Ranges: bytes
+Content-Length: 841791
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq17a2@@4g40K7tG4Q5YwAAAAw
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:26|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_16|http://gini-eu.sita.aero/ftp-area/xipi/.asyncjobs/94ac45edada213b2be6d62c347cba8b2/Gini-Xipi-Class-Of-Service-Synthesis.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:26 GMT
+Last-Modified: Wed, 31 May 2023 07:31:08 GMT
+ETag: "3332c-5fcf84da6f3e9"
+Accept-Ranges: bytes
+Content-Length: 209708
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq17q2@@4g40K7tG4Q5ZgAAAA0
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:26|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_17|http://gini-eu.sita.aero/ftp-area/xpro/.asyncjobs/d39c1f3d8352e51e998b8390c6780957/Gini-Xpro-USID-details-from-CIS.txt.gz|0
+Status Line: HTTP/1.1 200 OK
+*** Response Header ***
+Date: Sat, 03 Jun 2023 03:39:26 GMT
+Last-Modified: Wed, 31 May 2023 07:31:13 GMT
+ETag: "684d7-5fcf84deefd9b"
+Accept-Ranges: bytes
+Content-Length: 427223
+Content-Type: application/x-gzip-compressed
+X-OAPI-Request-Id: GNI-ZHq17q2@@4g40K7tG4Q5ZwAAAAE
+Server: BlueCoat Reverse-Proxy
+Proxy-Connection: Keep-Alive
+Connection: Keep-Alive
+2023-06-03 03:39:30|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_18|End of HTTP Get|0
+2023-06-03 03:39:37|svVR37|svVR37|svVR37|ICAP_INVENTORY_30|SITA_Upload_GINI|Default|3|tWarn|tWarn_19|NCC mapping completed|0

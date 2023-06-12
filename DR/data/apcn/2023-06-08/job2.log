@@ -1,0 +1,45 @@
+2023-06-08 03:47:38|GCEvXP|GCEvXP|GCEvXP|ICAP_INVENTORY_33|MetaJob_SITA_AFKL_Inventory|Default|3|tWarn|tWarn_3|Inventory Creation Start|42
+tContextLoad_2 set key "request" with value "/tmp/GINI/File/"
+tContextLoad_2 set key "temp" with value "/tmp/GINI/temp/"
+tContextLoad_2 set key "inventory" with value "/tmp/GINI/Inventory/"
+tContextLoad_2 set key "node" with value "Gini-Xgri-Node.txt"
+tContextLoad_2 set key "user" with value "Gini-Xgri-User.txt"
+tContextLoad_2 set key "device" with value "Gini-Xipi-Device.txt"
+tContextLoad_2 set key "l2_l3" with value "Gini-Xipi-L2-L3-links.txt"
+tContextLoad_2 set key "meshing" with value "Gini-Xipi-Meshing.txt"
+tContextLoad_2 set key "remote" with value "Gini-Xtra-Remote.txt"
+tContextLoad_2 set key "service_avail" with value "Gini-Xtra-Service-Availability.txt"
+tContextLoad_2 set key "ce_pe_meshing_cos" with value "Gini-Xpro-CE-PE-meshing-COS.txt"
+tContextLoad_2 set key "dsl_params" with value "Gini-Xpro-DSL-params.txt"
+tContextLoad_2 set key "physical_intf_cis" with value "Gini-Xpro-Physical-Interfaces-provisioning-info-from-CIS.txt"
+tContextLoad_2 set key "ccr" with value "Gini-Xpro-CCR-Circuit-References.txt"
+tContextLoad_2 set key "carrier_access" with value "Gini-Xtra-CE-Ethernet-Carrier-circuit.txt"
+tContextLoad_2 set key "ip_meshing" with value "Gini-Xtra-IP-Meshing-PE-IAR-list.txt"
+tContextLoad_2 set key "usid_cis" with value "Gini-Xpro-USID-details-from-CIS.txt"
+tContextLoad_2 set key "interfaces" with value "Gini-Xipi-Interface.txt"
+tContextLoad_2 set key "iata_prov" with value "Gini-Xpro-IP-Devices-ordering-provisioning-info.txt"
+tContextLoad_2 set key "sita_cos" with value "Gini-Xipi-Class-Of-Service-Synthesis.txt"
+tContextLoad_2 set key "sita_iata" with value "/home/icapsrv/ExtraFiles/IATA_EX.xlsx"
+tContextLoad_2 set key "lois_order" with value "/home/icapsrv/ExtraFiles/NCC.xls"
+tContextLoad_2 set key "MSC_MAP" with value "/home/icapsrv/ExtraFiles/MSC_MAP.xlsx"
+tContextLoad_2 set key "aph_airports" with value "/home/icapsrv/ExtraFiles/NCC_APH.xls"
+tContextLoad_2 set key "circuit_lookup" with value "Gini-Xpro-CCR-Circuit-Lookup.txt"
+2023-06-08 03:47:41|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_8|Interfaces and Link Transformed|0
+2023-06-08 03:47:47|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_9|Meshing Information Processed|0
+2023-06-08 03:47:55|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_16|Meshing Device Information Processed|0
+2023-06-08 03:47:58|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_10|DSL A/S Information Processed|0
+2023-06-08 03:47:58|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_11|VSAT A/S Information Processed|0
+2023-06-08 03:48:00|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_12|Service and MSC Type Information Processed|0
+2023-06-08 03:48:09|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_15|DNA_URN Processed|0
+2023-06-08 03:48:10|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_4|Lease Line A/S Information Processed|0
+2023-06-08 03:48:18|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_13|USID & Circuit Informations Processed|0
+2023-06-08 03:48:20|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_7|VRF Information Processed|0
+2023-06-08 03:48:24|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_6|MTN & POP Informations Processed|0
+2023-06-08 03:48:26|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_5|IATA Information Processed|0
+2023-06-08 03:48:36|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_3|ECB & MSC Split Informations Processed|0
+2023-06-08 03:48:36|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_2|Associated Devices Information Processed|0
+2023-06-08 03:48:48|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_1|SITA Inventory File Transformation Processed|0
+2023-06-08 03:48:50|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_14|Serial APCN Informations Processed|0
+2023-06-08 03:48:50|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_17|Unused ports information processed|0
+2023-06-08 03:48:50|bo10s3|GCEvXP|GCEvXP|ICAP_INVENTORY_33|Metajob_SITA_Routers|Default|3|tWarn|tWarn_18|Zscaler tunnels processed|0
+2023-06-08 03:48:50|GCEvXP|GCEvXP|GCEvXP|ICAP_INVENTORY_33|MetaJob_SITA_AFKL_Inventory|Default|3|tWarn|tWarn_2|Gini Workflow Ended Successfully|0
